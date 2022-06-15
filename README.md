@@ -1,4 +1,4 @@
-# How_to_contorl_Github
+# 깃허브 제어 방법
 
 # 깃 정보확인
 git status
