@@ -22,6 +22,6 @@ git commit -m "설명" // 커밋
 
 ## 업로드
 git remote add origin 레파지토리주소  
-※ 오리진 삭제는 git remote rm origin 
+※ 오리진 삭제는 git remote rm origin  
 ※ private 레포지토리의 경우 "git branch -M master"의 코드로 master란 유저에게 마스터 권한을 줘야한다.  
 git push -u origin master  
