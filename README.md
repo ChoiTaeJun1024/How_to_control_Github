@@ -11,7 +11,7 @@ git commit -m "파일에 표시할 주석(날짜, 버전 등)"
 git push
 
 # ■ 폴더 연동 및 업로드 순서
-## 초기설정(이미 한 PC명 생략 가능)
+## 초기설정(이미 한 PC면 생략 가능)
 git config --global user.name 유저이름  
 git config --global user.email 유저이메일  
 
