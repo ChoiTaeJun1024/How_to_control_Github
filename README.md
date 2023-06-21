@@ -21,6 +21,6 @@ git add . // 선택한 프로젝트 폴더 내의 모든 파일 관리
 git commit -m "설명" // 커밋  
 
 ## 업로드
-git remote add origin 레파지토리주소
-ㄴ 오리진 삭제는 git remote rm origin
+git remote add origin 레파지토리주소  
+ㄴ 오리진 삭제는 git remote rm origin  
 git push -u origin master  
