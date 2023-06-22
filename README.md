@@ -8,7 +8,7 @@ git checkout -- "파일명.확장자"
 ## 수정한 거 업로드하는 법.
 git add .  
 git commit -m "파일에 표시할 주석(날짜, 버전 등)"  
-※ 파일이나 폴더가 바뀌었을 시 git pull origin master 를 해주어야 함  
+※ 파일이나 폴더가 바뀌었을 시 push하기 전 git pull origin master 를 해주어야 함  
 git push
 
 # ■ 폴더 연동 및 업로드 순서
